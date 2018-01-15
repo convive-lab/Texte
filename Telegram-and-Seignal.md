@@ -1,8 +1,8 @@
-#Telegram und Signal
+# Telegram und Signal
 
 Ziel dieses Textes ist es, die Unterschiede zwischen Telegram und Signal, insbesondere im Hinblick auf Provatsphäre und Verschlüsselung möglichst leicht verständlich zu erklären.
 
-##Telegram
+## Telegram
 
 Bei Telegram werden standardmäßig alle Nachrichten und Dateien auf dem Telegram-Server (ziemlich sicher unverschlüsselt) gespeichert.
 Daraus ergeben sich folgende Funktionen, die bei Signal so nicht gehen:
@@ -19,7 +19,7 @@ Sicherheit gibt es bei Telegram nur durch die "Transportverschlüsselung", also 
 
 Telegrams Geschäftsmodell dürften wohl Kundendaten und Payment-Dienstleistungen sein bzw werden. Die Entwicklung wurde vom russischen Mark Zuckerberg, Pavel Durov angestoßen. Nach eigenen Angaben sind sie gemeinnützig, es ist aber eine normale Personengesellschaft. https://de.wikipedia.org/wiki/Telegram_Messenger#Geschichte_und_Hintergr%C3%BCnde 
 
-##Signal
+## Signal
 
 Signal ist ausnahmslos Ende-zu-Ende Verschlüsselt, wobei nicht einzelnen Identitäten sondern einzelnen Geräten vertraut wird (anders als bei zb PGP). Die Funktionsweise der Verschlüsselung im Detail ist deutlich ausgefeilter als alles was es sonst so gibt, wurde schon mehrfach als State-of-the-Art bezeichnet und spielt alle stückerln die man heute heute erwarten kann. 
 
