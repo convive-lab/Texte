@@ -27,7 +27,7 @@ Der Server, oder sonst wer, kann somit keine Nachrichten lesen, sondern diese nu
 Bei Signal ist immer ein Smartphone (Android, iOS) das Haupt-Gerät, über das desktop clients hinzugefügt und entfernt(!) werden können.
 Das ist insbesondere bei Medien nachteilig, da diese gerne den lokalen Speicher füllen und dann bei Geräten mit wenig Speicher für Probleme sorgen.
 Es liegt also nahe über Signal nur Text zu versenden, und Bilder extern zu verlinken, wenn sie keinen problematischen Inhalt haben.
-Wenn dein Speicher voll ist kannst du alte Nachrichten schnell und einfach löschen (Einstellungen->Unterhaltungen und Medieninhalte->Alte Nachrichten löschen. 
+Wenn dein Speicher voll ist kannst du alte Nachrichten schnell und einfach löschen (Einstellungen->Unterhaltungen und Medieninhalte->Alte Nachrichten löschen). 
 
 Signal hat (noch) keine schönen Link Previews. Ihr müsst also schreiben worum es bei einem Link geht, damit er auch angeklickt wird.
 
