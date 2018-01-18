@@ -1,6 +1,6 @@
 # Telegram und Signal
 
-Ziel dieses Textes ist es, die Unterschiede zwischen [Telegram](https://telegram.org/) und [Signal](https://signal.org/), insbesondere im Hinblick auf Provatsphäre und Verschlüsselung möglichst leicht verständlich zu erklären.
+Ziel dieses Textes ist es, die Unterschiede zwischen [Telegram](https://telegram.org/) und [Signal](https://signal.org/), insbesondere im Hinblick auf Privatsphäre und Verschlüsselung möglichst leicht verständlich zu erklären.
 
 ## Telegram
 
@@ -21,7 +21,7 @@ Telegrams Geschäftsmodell dürften wohl Kundendaten und Payment-Dienstleistunge
 
 ## Signal
 
-Signal ist ausnahmslos [Ende-zu-Ende Verschlüsselt](https://de.wikipedia.org/wiki/Ende-zu-Ende-Verschl%C3%BCsselung), wobei nicht einzelnen Identitäten sondern einzelnen Geräten vertraut wird (anders als bei zb [PGP](https://de.wikipedia.org/wiki/Pretty_Good_Privacy)). Die Funktionsweise der Verschlüsselung im Detail ist deutlich ausgefeilter als alles was es sonst so gibt, wurde schon mehrfach als State-of-the-Art bezeichnet und spielt alle stückerln die man heute heute erwarten kann. 
+Signal ist ausnahmslos [Ende-zu-Ende Verschlüsselt](https://de.wikipedia.org/wiki/Ende-zu-Ende-Verschl%C3%BCsselung), wobei nicht einzelnen Identitäten sondern einzelnen Geräten vertraut wird (anders als bei zb [PGP](https://de.wikipedia.org/wiki/Pretty_Good_Privacy)). Die Funktionsweise der Verschlüsselung kann als State-of-the-Art bezeichnet werden. 
 
 Der Server, oder sonst wer, kann somit keine Nachrichten lesen, sondern diese nur zwischenspeichern und zustellen. Dabei muss eine Nachricht für jedes empfangende Gerät extra verschlüsselt werden (u.u mehrere pro user, desktop clients, -> in einer Gruppe ist es technisch nicht eine nachricht sondern sehr viele). Nach der Zustellung existieren diese Nachrichten nur noch auf den jeweiligen Geräten.
 Bei Signal ist immer ein Smartphone (Android, iOS) das Haupt-Gerät, über das desktop clients hinzugefügt und entfernt(!) werden können.
