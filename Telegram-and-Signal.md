@@ -39,4 +39,5 @@ Signel [sendet deine Kontkte nicht(!)](https://signal.org/blog/private-contact-d
 
 Signal bzw. Open Whisper Systems, hat ein nachvollziehbares Geschäftsmodell, nämlich den Verkauf und die Anpassung dieses Protokolls, das trotzdem open source ist(!), zb an Facebook (Whatsapp, Messenger), Google (Allo) und Microsoft (Skype). Ob OWS gemeinnützig ist konnte ich jetzt so auf die Schnelle nicht feststellen. In der Vergangenheit haben sie sich jedenfalls [durch Spenden finanziert](https://en.wikipedia.org/wiki/Open_Whisper_Systems#Funding). 
 
-
+## Was nun?
+Du hast jetzt einen Überblick über die Vorzüge dieser beiden Kurznachtichten-Systeme. Unter ähnlichen Gesichtspunkten kannst du auch andere Kommunikationssysteme bewerten. Schau dir ihre Funktionsweise an, daraus lässt sich oft sehr viel ableiten. Entscheide dann, welches System für deine Anwendung am besten geeignet ist!
